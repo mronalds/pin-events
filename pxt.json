@@ -1,11 +1,12 @@
 {
     "name": "pin events",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "pin events": "github:mronalds/pin-events#0e31230fe23cd36a2c05de5b0f5e9987c4b49515"
+        "pin events": "github:mronalds/pin-events"
     },
     "files": [
         "main.blocks",

@@ -4,18 +4,16 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pin events": "github:mronalds/pin-events#0e31230fe23cd36a2c05de5b0f5e9987c4b49515"
     },
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
-        "AllPinsOn.ts",
         "custom.ts"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "targetVersions": {
         "target": "9.0.12",
         "targetId": "microbit"
